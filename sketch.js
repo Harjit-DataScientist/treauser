@@ -19,7 +19,7 @@ function preload(){
   jwelleryImg = loadImage("jwell.png");
   swordImg = loadImage("sword.png");
   endImg =loadAnimation("gameOver.png");
-  gameover =loadAnimation("gameover.png")
+  gameover =loadAnimation("gameOver.png")
 }
 
 function setup(){
